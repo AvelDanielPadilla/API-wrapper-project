@@ -47,4 +47,5 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
 
   gem "rest-client"
+  gem 'dotenv-rails'
 end
